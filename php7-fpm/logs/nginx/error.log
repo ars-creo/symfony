@@ -1,0 +1,7 @@
+2018/06/16 08:58:29 [emerg] 1#0: unexpected "}" in /etc/nginx/sites-available/symfony.conf:16
+2018/06/16 08:59:57 [emerg] 1#0: unexpected "}" in /etc/nginx/sites-available/symfony.conf:16
+2018/06/16 09:00:22 [emerg] 1#0: unexpected "}" in /etc/nginx/sites-available/symfony.conf:16
+2018/06/16 09:07:42 [emerg] 1#0: unexpected "}" in /etc/nginx/sites-available/symfony.conf:16
+2018/09/28 17:05:39 [warn] 1#0: server name "/var/www/symfony/public" has suspicious symbols in /etc/nginx/sites-available/symfony.conf:6
+2018/09/28 17:19:41 [warn] 1#0: server name "/var/www/symfony/public" has suspicious symbols in /etc/nginx/sites-available/symfony.conf:6
+2018/09/28 17:21:09 [warn] 1#0: server name "/var/www/symfony/public" has suspicious symbols in /etc/nginx/sites-available/symfony.conf:6
