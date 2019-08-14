@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d0cd329-6d5a-4753-8889-a16eddcb3776" name="Default Changelist" comment="" />
+    <list default="true" id="7d0cd329-6d5a-4753-8889-a16eddcb3776" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/symfonycasts/templates/article/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/db/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/.data/db/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/db/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/.data/db/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/db/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/.data/db/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/db/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/.data/db/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/db/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/.data/db/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/db/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/.data/db/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/db/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/.data/db/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/symfonycasts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfonycasts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/nginx/project_access.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/nginx/project_access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfonycasts/src/Controller/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/symfonycasts/src/Controller/ArticleController.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +27,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -129,10 +146,13 @@
       <path value="$PROJECT_DIR$/symfonycasts/vendor/ocramius/proxy-manager" />
       <path value="$PROJECT_DIR$/symfonycasts/vendor/ocramius/package-versions" />
       <path value="$PROJECT_DIR$/symfonycasts/vendor/knplabs/knp-markdown-bundle" />
+      <path value="$PROJECT_DIR$/symfonycasts/vendor/sensiolabs/security-checker" />
     </include_path>
   </component>
   <component name="ProjectId" id="1PJQGuOMkZo7FO2LqlhqGa994wu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -173,11 +193,25 @@
       <workItem from="1565592381252" duration="749000" />
       <workItem from="1565593432514" duration="1665000" />
       <workItem from="1565727951443" duration="46000" />
-      <workItem from="1565728013420" duration="2712000" />
+      <workItem from="1565728013420" duration="3687000" />
+      <workItem from="1565781720753" duration="2071000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
